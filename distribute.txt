@@ -1,2 +1,3 @@
 Creating a new branch is quick and simple.
 Each branch is like a parallel universe.
+Learn branches well, get twice the result with half the effort.

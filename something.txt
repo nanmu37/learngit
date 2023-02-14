@@ -3,3 +3,6 @@ Git is free software distributed under the GPL.
 Git and Github are great partners.
 Git tracks changes of files.
 Git is a true distributed repository.
+The father of Linux, Linus Benedict Torvalds, was born on December 28, 1969. 
+He was first released on October 5, 1991. Linux inherits the Unix design idea of network as the core, 
+and is a stable performance of multi-user network operating system

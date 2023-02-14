@@ -1,0 +1,2 @@
+git was created by the same man as Linux, 
+and it took him two weeks to implement it in c.

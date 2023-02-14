@@ -1,3 +1,4 @@
 git was created by the same man as Linux, 
 and it took him two weeks to implement it in c.
 The founder of git is Linus, who is famous all over the world.
+The author of this article is nanmu.
